@@ -189,6 +189,13 @@ to the file. Run:
 chown librenms:librenms /opt/librenms/config.php
 ```
 
+RRDCached (Optional step)
+
+If you would like LibreNMS to present information in graphs you
+need to install RRDCached and configure it. Visit Setting up RRDCached
+for the steps.
+
+
 # Final steps
 
 That's it!  You now should be able to log in to
